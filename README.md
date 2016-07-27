@@ -1,6 +1,9 @@
 CalendarListview
 ================
 
+[![](https://jitpack.io/v/SimoneBellotti/CalendarListview.svg)](https://jitpack.io/#SimoneBellotti/CalendarListview)
+
+
 ![CalendarListview](https://github.com/traex/CalendarListview/blob/master/header.png)
 
 CalendarListview provides a easy way to select dates with a calendar for API 10+. [You can find a sample](https://github.com/traex/CalendarListview/blob/master/sample/) that show how to add DatePickerView to your layout without customization. 
