@@ -13,7 +13,7 @@ CalendarListview provides a easy way to select dates with a calendar for API 10+
 ### Integration
 Add it in your root build.gradle at the end of repositories:
 
-``` xml
+```gradle
 
 allprojects {
 	repositories {
@@ -26,7 +26,7 @@ allprojects {
 
 Step 2. Add the dependency
 
-``` xml
+```gradle
 
 dependencies {
     compile 'com.github.SimoneBellotti:CalendarListview:v1.2.4'
