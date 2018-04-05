@@ -1,7 +1,7 @@
 CalendarListview
 ================
 
-[![](https://jitpack.io/v/SimoneBellotti/CalendarListview.svg)](https://jitpack.io/#SimoneBellotti/CalendarListview)
+[![](https://jitpack.io/v/sbelloz/CalendarListview.svg)](https://jitpack.io/#sbelloz/CalendarListview)
 
 
 ![CalendarListview](https://github.com/traex/CalendarListview/blob/master/header.png)
@@ -18,7 +18,7 @@ Add it in your root build.gradle at the end of repositories:
 allprojects {
 	repositories {
 	    ...
-		maven { url "https://jitpack.io" }
+	    maven { url "https://jitpack.io" }
 	}
 }
 
@@ -29,7 +29,7 @@ Step 2. Add the dependency
 ```gradle
 
 dependencies {
-    compile 'com.github.SimoneBellotti:CalendarListview:v1.2.4'
+    compile 'com.github.sbelloz:CalendarListview:v1.2.4'
 }
 
 ```
